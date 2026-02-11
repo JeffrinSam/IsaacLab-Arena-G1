@@ -35,6 +35,10 @@ To get started with the original Isaac-Lab Arena, see our [documentation site](h
 
 **Working Version** - Fixed and improved by **Jeffrin Sam**
 
+**Repository maintained by:** Jeffrin Sam  
+**Status:** ✅ Working - All fixes tested and verified  
+**Last Updated:** February 2025
+
 Based on IsaacLab-Arena Release 0.1.1 by the NVIDIA Robotics Team
 
 </div>
